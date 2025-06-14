@@ -1,0 +1,47 @@
+[
+    {
+        "name": "陪你去流浪",
+        "audio_url": "./music/陪你去流浪.mp3",
+        "singer": "薛之谦",
+        "album": "尘",
+        "avatar": "./music/陪你去流浪.jpg",
+        "cover": "./music/陪你去流浪背景.png",
+        "time": "04:34"
+    },
+    {
+        "name": "天外来物",
+        "audio_url": "./music/天外来物.mp3",
+        "singer": "薛之谦",
+        "album": "天外来物",
+        "avatar": "./music/天外来物.jpg",
+        "cover": "./music/天外来物背景.jpg",
+        "time": "04:17"
+    },
+    {
+        "name": "刚刚好",
+        "audio_url": "./music/刚刚好.mp3",
+        "singer": "薛之谦",
+        "album": "初学者",
+        "avatar": "./music/刚刚好.jpg",
+        "cover": "./music/刚刚好背景.png",
+        "time": "04:10"
+    },
+    {
+        "name": "像风一样",
+        "audio_url": "./music/像风一样.mp3",
+        "singer": "薛之谦",
+        "album": "渡",
+        "avatar": "./music/像风一样.jpg",
+        "cover": "./music/像风一样背景.jpg",
+        "time": "04:15"
+    },
+    {
+        "name": "天后",
+        "audio_url": "./music/天后.mp3",
+        "singer": "薛之谦",
+        "album": "蒙面唱将",
+        "avatar": "./music/天后.jpg",
+        "cover": "./music/天后背景.jpg",
+        "time": "04:07"
+    }
+]
